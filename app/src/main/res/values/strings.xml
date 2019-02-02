@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExoPlayer</string>
+
+    <string name="fondo">fondo</string>
+    <string name="hola">Hola !!</string>
+    <string name="qu_te_gustar_a_ver">Qué te gustaría ver?</string>
+    <string name="cargando">CARGANDO...</string>
+
+</resources>
